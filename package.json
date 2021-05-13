@@ -1,0 +1,29 @@
+{
+  "name": "mixed_messages",
+  "version": "1.0.0",
+  "description": "Codecademy mixed messages project",
+  "main": "script.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninjacanthi1995/mixed-messages.git"
+  },
+  "keywords": [
+    "codecademy",
+    "project",
+    "random",
+    "quotes"
+  ],
+  "author": "Hoang Minh Chau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninjacanthi1995/mixed-messages/issues"
+  },
+  "homepage": "https://github.com/ninjacanthi1995/mixed-messages#readme"
+}
