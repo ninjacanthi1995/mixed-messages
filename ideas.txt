@@ -1,0 +1,2 @@
+- Random quotes generator
+- When click on a button, a random quote appears
